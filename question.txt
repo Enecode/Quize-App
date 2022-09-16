@@ -1,0 +1,6 @@
+# a dictionary that stores questions and answer
+# have a variable that tracks the scores of the player
+# loop through the dictionary using key value pairs
+# display each question to the user and allow the user to answer
+# Tell user they are right or wrong
+# Show the final result when quiz is completed
